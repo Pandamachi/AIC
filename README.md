@@ -1,4 +1,4 @@
-# AIC-hw1
+# AIC
 
 Project1
 
